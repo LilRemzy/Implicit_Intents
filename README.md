@@ -30,11 +30,6 @@ V tej nalogi sem naredil aplikacijo Implicit Intents, ki vsebuje eno aktivnost (
 <img width="200" height="411" alt="Slika6" src="https://github.com/user-attachments/assets/5dcbe268-f5d2-48f7-8faf-39a40ba6fa90" />
 <img width="200" height="411" alt="Slika7" src="https://github.com/user-attachments/assets/cef7695c-62d4-4f5d-97f6-00efaa1d99c3" />
 
-## Zagon
-
-1. Projekt odprite v Android Studiu.
-2. Aplikacijo zaženite na emulatorju ali telefonu.
-3. APK generirate z **Build → Build Bundle(s) / APK(s) → Build APK(s)**.
 
 ## Tehnologije
 
