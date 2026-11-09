@@ -27,10 +27,10 @@ V tej nalogi sem naredil aplikacijo Implicit Intents, ki vsebuje eno aktivnost (
 ## Zaslonske slike aplikacije
 
 | Začetni zaslon | Spletna stran | Lokacija | Besedilo za deljenje |
-<img width="413" height="879" alt="Slika4" src="https://github.com/user-attachments/assets/657a907e-3125-43d8-a937-1147513e5959" />
-<img width="415" height="883" alt="Slika5" src="https://github.com/user-attachments/assets/7d1b60e0-c780-4135-b2d9-3d12c5b5c970" />
-<img width="412" height="879" alt="Slika6" src="https://github.com/user-attachments/assets/5dcbe268-f5d2-48f7-8faf-39a40ba6fa90" />
-<img width="412" height="882" alt="Slika7" src="https://github.com/user-attachments/assets/cef7695c-62d4-4f5d-97f6-00efaa1d99c3" />
+<img width="200" height="411" alt="Slika4" src="https://github.com/user-attachments/assets/657a907e-3125-43d8-a937-1147513e5959" />
+<img width="200" height="411" alt="Slika5" src="https://github.com/user-attachments/assets/7d1b60e0-c780-4135-b2d9-3d12c5b5c970" />
+<img width="200" height="411" alt="Slika6" src="https://github.com/user-attachments/assets/5dcbe268-f5d2-48f7-8faf-39a40ba6fa90" />
+<img width="200" height="411" alt="Slika7" src="https://github.com/user-attachments/assets/cef7695c-62d4-4f5d-97f6-00efaa1d99c3" />
 
 ## Zagon
 
